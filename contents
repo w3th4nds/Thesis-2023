@@ -1,0 +1,24 @@
+### Theory
+* What is stack
+* What is heap
+* Registers on x86-64
+* What is a decompiler
+* What is a disassembler
+* What is a debugger
+* Some CVEs (?)
+* Return Oriented Programming - ret2libc
+* Endianness
+* C man page -> gets() errors/bugs
+* .got - .plt
+* Analyzing all the vulnarabilites i'm using
+
+
+### Tools
+* pwntools 
+* gdb - extensions
+* ghidra
+* one_gadget
+* Checksec
+* strings
+* strace
+* file

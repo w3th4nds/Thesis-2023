@@ -1,0 +1,1 @@
+FLAG{f0rm4t_5tr1ng_bug_15_b4d}
