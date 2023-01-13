@@ -3,7 +3,7 @@
 <p align="center">
 <img src="assets/logo.png" alt="drawing" width="300px" />
 <h2> Full Name:&emsp;&emsp;&ensp;&ensp; Nikolaos-Athanasios Sarridis </h2>   
-<h2> Registration No: &ensp; 711151026</h2>
+<h2> Registration No:&ensp; 711151026</h2>
 </p>
 
 This repo contains all the files needed to:
