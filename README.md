@@ -34,7 +34,7 @@ This repo contains all the files needed to:
 * solve
 
 The challanges demonstrated in my Thesis.
-
+<center>
 | Challenge                  | Objective               | zip                                                   | 
 | :---:                      | :---:                   | :---:                                                 |
 | [challenge0](./challenge0) | Overwrite a var's value | [challenge0.zip](./challenge0/release/challenge0.zip) |
@@ -47,3 +47,4 @@ The challanges demonstrated in my Thesis.
 | [challenge7](./challenge7) | **ret2csu**             | [challenge7.zip](./challenge8/release/challenge7.zip) |
 | [challenge8](./challenge8) | **fmtstr-canary-PIE**   | [challenge8.zip](./challenge9/release/challenge8.zip) |
 | [challenge9](./challenge9) | **one gadget**          | [challenge9.zip](./challenge9/release/challenge9.zip) |
+</center>
