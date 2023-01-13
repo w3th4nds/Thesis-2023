@@ -1,3 +1,9 @@
+<p align="center">
+<img src="assets/logo.png" alt="drawing" width="300px" />
+<h2> Full Name:&emsp;&emsp;&ensp;&ensp; Nikolaos-Athanasios Sarridis </h2>   
+<h2> Registration No:&ensp; 711151026</h2>
+</p>
+
 My thesis focuses on finding, triggering, abusing, explaining, and exploiting common vulnerabilities when writing a C/C++ program and are related to program security. Someone can take advantage of these vulnerabilities and gain access to the system or read confidential files that he/she is not allowed to. Our goal is to eliminate these programming "errors" that trigger a bug (from the defensive side) and learn how to find such flaws to patch them and write more secure code.
 Some of the bugs we will see are
 
@@ -21,11 +27,6 @@ All the bugs above will be implemented in Linux binary files (ELF) and will run 
 
 In the end, there will be a python script that will give us access to the system and an explanation of how to patch the program to prevent each error.
 
-<p align="center">
-<img src="assets/logo.png" alt="drawing" width="300px" />
-<h2> Full Name:&emsp;&emsp;&ensp;&ensp; Nikolaos-Athanasios Sarridis </h2>   
-<h2> Registration No:&ensp; 711151026</h2>
-</p>
 
 This repo contains all the files needed to:
 * build
