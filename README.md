@@ -1,7 +1,7 @@
 <p align="center">
 <img src="assets/logo.png" alt="drawing" width="300px" />
-<h2> Full Name:&emsp;&emsp;&ensp;&ensp; Nikolaos-Athanasios Sarridis </h2>   
-<h2> Registration No:&ensp; 711151026</h2>
+<h2 align="center"> Nikolaos-Athanasios Sarridis </h2>   
+<h2 align="center"> 711151026</h2>
 </p>
 
 My thesis focuses on finding, triggering, abusing, explaining, and exploiting common vulnerabilities when writing a C/C++ program and are related to program security. Someone can take advantage of these vulnerabilities and gain access to the system or read confidential files that he/she is not allowed to. Our goal is to eliminate these programming "errors" that trigger a bug (from the defensive side) and learn how to find such flaws to patch them and write more secure code.
