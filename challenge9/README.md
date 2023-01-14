@@ -13,7 +13,7 @@
 
 ## Challenge:
 
- ⚠️ ***This challenge is the same as before, the only thing htat changes is the `read()` input size. The screenshots are the same as the previous challenge.*** ⚠️
+ ⚠️ ***This challenge is the same as before, the only thing that changes is the `read()` input size. The screenshots are the same as the previous challenge.*** ⚠️
 
 First of all, we start with a `checksec`:  
 
